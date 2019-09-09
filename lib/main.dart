@@ -1,7 +1,7 @@
 import 'package:flame/util.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
-import 'package:hashire/hashire-game.dart';
+import 'package:hashire/boxgame.dart';
 import 'package:flutter/gestures.dart';
 
 void main() async{
